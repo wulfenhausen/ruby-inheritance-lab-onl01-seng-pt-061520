@@ -1,4 +1,5 @@
 require_relative "./user.rb"
+<<<<<<< HEAD
 class Student < User
   attr_accessor :knowledge
   def initialize
@@ -13,4 +14,8 @@ class Student < User
     @knowledge
   end
     
+=======
+class Student 
+
+>>>>>>> 22904e543c9daeab518c9f8c27c1099ce63bd03b
 end

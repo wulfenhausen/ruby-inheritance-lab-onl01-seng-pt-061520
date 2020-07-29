@@ -1,4 +1,9 @@
 require_relative "./user.rb"
+<<<<<<< HEAD
+=======
+
+class Teacher < User
+>>>>>>> 22904e543c9daeab518c9f8c27c1099ce63bd03b
 
 class Teacher < User
   
